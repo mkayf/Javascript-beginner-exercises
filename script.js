@@ -28,3 +28,8 @@
     // console.log(rezult2);
 
     // compelte 
+
+
+// TASK 2: Ek array banao jis mein random numbers like 1,4,2,5,2 ya jo bhi numbers daalo aur ek dusra variable banao jese "AddedValues" ke naam se us mein array ke numebrs ka sum calculate karke daalo aur phr us variable ko print karwao.
+
+// Apni apni branches mein code likhna.
