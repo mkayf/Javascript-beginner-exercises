@@ -12,19 +12,19 @@
 
     // first Question solved 
 
-    function CelciusToFerhenheit(m){
-        return (m * 9/5) + 32;
-    }        
-    let rezult = CelciusToFerhenheit(89.6)   
-        console.log(rezult);
+    // function CelciusToFerhenheit(m){
+    //     return (m * 9/5) + 32;
+    // }        
+    // let rezult = CelciusToFerhenheit(89.6)   
+    //     console.log(rezult);
 
     // Second Question solved 
 
-    function ferhenheitToCelcius(n){
-        return (n-32) * 5/9;
-    }
+    // function ferhenheitToCelcius(n){
+    //     return (n-32) * 5/9;
+    // }
 
-    let  rezult2 = ferhenheitToCelcius(89.6);
-    console.log(rezult2);
+    // let  rezult2 = ferhenheitToCelcius(89.6);
+    // console.log(rezult2);
 
     // compelte 
