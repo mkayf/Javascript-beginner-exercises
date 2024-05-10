@@ -33,3 +33,15 @@
 // TASK 2: Ek array banao jis mein random numbers like 1,4,2,5,2 ya jo bhi numbers daalo aur ek dusra variable banao jese "AddedValues" ke naam se us mein array ke numebrs ka sum calculate karke daalo aur phr us variable ko print karwao.
 
 // Apni apni branches mein code likhna.
+
+
+// Task 2 Solution 
+
+let myArrey = [5,8,9,7,4,2,1,6,3];
+let Addvalues = 0;
+
+for(let i = 0; i < myArrey.length; i++){
+    Addvalues += myArrey[i];
+}
+
+console.log("sum of numbers in the arrey:", + Addvalues);
